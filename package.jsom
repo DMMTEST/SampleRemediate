@@ -1,0 +1,14 @@
+{
+  "name": "SampleRemediate",
+  "version": "0.0.1",
+  "description": "A vulnerable demo application",
+  "homepage": "https://snyk.io/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DMMDTOM/Demo_DMM_Test"
+  },
+  "dependencies": {
+    "qs": "0.0.6",
+    "node-uuid": "1.4.0"
+  }
+}
